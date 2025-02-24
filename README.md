@@ -41,9 +41,11 @@ What are some common challenges faced by software engineers? Provide strategies 
   - Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
 Strategies for Overcoming Challenges: Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
-
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
+- Unit Testing: Testing individual components or modules of software.
+  - Integration Testing: Testing interactions between different components or subsystems.
+  - System Testing: Testing the entire software system as a whole.
+  - Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
